@@ -1,0 +1,21 @@
+show_likes:
+  type: bool
+  default: true
+show_views:
+  type: bool
+  default: false
+show_reply_count:
+  type: bool
+  default: false
+show_activity:
+  type: bool
+  default: false
+show_publish_date:
+  type: bool
+  default: true
+set_card_max_height:
+  type: bool
+  default: true
+card_max_height:
+  type: integer
+  default: 275
